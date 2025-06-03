@@ -252,7 +252,7 @@ const ContactPage: React.FC = () => {
             <div className="overflow-hidden rounded-xl shadow-md h-96 bg-gray-200">
               {/* In a real app, this would be a Google Maps iframe */}
               <div className="h-full w-full flex items-center justify-center bg-gray-200">
-                <p className="text-gray-600"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3155.180030875526!2d-122.38623752426703!3d37.738920471994504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f7f0c162ae603%3A0x3eda585dcb72bca5!2s123%20Lane%20St%2C%20San%20Francisco%2C%20CA%2094124%2C%20%C3%89tats-Unis!5e0!3m2!1sfr!2scm!4v1748952299307!5m2!1sfr!2scm" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+                <p className="text-gray-600">Map</p>
               </div>
             </div>
           </div>
