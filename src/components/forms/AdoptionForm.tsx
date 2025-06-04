@@ -65,7 +65,7 @@ const AdoptionForm: React.FC<AdoptionFormProps> = ({ puppy, onSubmit }) => {
     Zip Code: ${formData.zip}
     Phone: ${formData.phone}
     `;
-    const phone = "23757830459";
+    const phone = "23721750601";
     const url = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
 
     window.open(url, '_blank');
