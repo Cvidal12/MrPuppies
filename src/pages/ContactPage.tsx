@@ -125,7 +125,7 @@ const ContactPage: React.FC = () => {
             <p className="text-gray-600 mb-2">
               General Inquiries:<br />
               <a href="mailto:MrPuppy12@gmail.com" className="text-primary-600 hover:text-primary-700">
-                MrPuppy12@gmail.com
+                MrPuppy120@gmail.com
               </a>
             </p>
             <p className="text-gray-600">
